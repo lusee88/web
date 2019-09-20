@@ -1,0 +1,78 @@
+//Vars
+
+$black: #010000;
+$white: #ffffff;
+$lightGrey: #e6e6e6;
+$darkGrey: #333;
+$red: #ff1755;
+$lightBlue: #90f0e0;
+$darkBlue: rgba(6,111,191,0.6);
+$lightPurple: #9890f0;
+$neonBlue: #72e0d1;
+
+/* Fonts
+
+regular 400
+regular 400 Italic
+bold 700
+bold 700 Italic
+
+*/
+
+//Mix-Ins
+
+@mixin translateY($e) {
+    -webkit-transform: translateY($e);
+        -moz-transform: translateY($e);
+            transform: translateY($e);
+}
+
+@mixin transition($e) {
+    -webkit-transition: $e;
+        -moz-transition: $e;
+            transition: $e;
+}
+
+html, body {
+    //font-family: 'Hepta Slab', serif;
+    font-family: 'Livvic', sans-serif;
+    font-size: 18px;
+    color: $black;
+    font-weight: 400;
+    font-style: normal;
+    height: 100%;
+}
+
+h3 {
+    font-family: 'Livvic', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    @include transition(.4s ease-in-out);
+    cursor: pointer;
+
+    &:focus{
+        //effects of link after click
+        text-decoration: none;
+        color: $white;
+    }
+
+    &:visited {
+        text-decoration: none;
+    }
+
+    &:hover {
+        color: $lightBlue;
+        text-decoration: none;
+        @include transition(.4s ease-in-out);
+    }
+
+    &:active {
+        color: $lightBlue;
+        text-decoration: none;
+    }
+
+
+}
+

@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import './Assets/css/default.min.css';
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from 'react-router-dom'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+//the bridge between react and browser 
+
+//components
+import Header from './Components/headerComponent/header'
+import Footer from './Components/footerComponent/footer'
+import HomePage from './Components/pages/homePage'
+import Projects from './Components/pages/projects'
+import Experiences from './Components/pages/experiences'
+import Interests from './Components/pages/interests'
+
+class App extends Component{
+  render (){
+    return (
+      //router wrap
+      <Router>
+        <div className="App">
+          <Header />
+
+            <Route exact path='/' component={HomePage} />
+            <Route exact path='/Projects' component={Projects} />
+            <Route exact path='/Experiences' component={Experiences} />
+            <Route exact path='/Interests' component={Interests} />
+
+          <Footer />
+        </div>
+      </Router>
+      
+    );
+  }
 }
 
 export default App;

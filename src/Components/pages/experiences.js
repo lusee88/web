@@ -36,8 +36,8 @@ class Experiences extends Component {
                     My primary initatives involved development of <b>VBScript</b> to 
                     perform company wide audits and to ensure good security practices that 
                     meet industry standard. I also took 
-                    part in developing scrips in <b>VBA</b> to generate reports on
-                    vunerabilities, IDS/IPS found within the company and external threats to the industry.
+                    part in developing scripts in <b>VBA</b> to generate reports on
+                    vunerabilities and IDS/IPS threats in the company and external threats to the industry.
                     </Card.Text>
                   </Card.Body>
                 </Card>

@@ -1,7 +1,4 @@
-import React, { Component } from 'react';
-import EducationUW from './pieces/educationUW'
-import EducationWLU from './pieces/educationWLU'
-import Tabs from './pieces/Tabs'
+import React, { Component } from 'react'; 
 import TabContent from './pieces/tabContent';
 
 

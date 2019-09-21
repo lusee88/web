@@ -37,7 +37,7 @@ class Experiences extends Component {
                     perform company wide audits and to ensure good security practices that 
                     meet industry standard. I also took 
                     part in developing scripts in <b>VBA</b> to generate reports on
-                    vunerabilities and IDS/IPS threats in the company and external threats to the industry.
+                    vunerabilities and external threats to the corporation.
                     </Card.Text>
                   </Card.Body>
                 </Card>

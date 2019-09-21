@@ -38,7 +38,7 @@ class HomePage extends Component {
                     learner and a hard worker so I am able to pick up on new languages and their functions speedily. I would love to learn more about full-stack development: 
                     specifically, I would like to learn about the different databases(SQL, MongoDB) and using Python on the server-side. I am also interested in API creation.
                     My interests lie with web development and design, security, and cloud programming in technology. However, I am also interested in pursuing a Project Manager
-                    role in the future. My other hobbies enjoy jamming to music and playing sports such as Basketball, Badminton, and Ultimate Frisebee. 
+                    role in the future. My other hobbies include jamming to music and playing sports such as Basketball, Badminton, and Ultimate Frisbee. 
                     </p>
                   </div>
                 </div>

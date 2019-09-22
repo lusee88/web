@@ -9,7 +9,7 @@ import wlu from './WLU.png';
 export default class TabContent extends React.Component {
     render() {
         return (
-            <div className="container up">
+            <div className="containerUp">
                 
                 <TabList>
                     <div label="Education" className="tab-content">
@@ -17,13 +17,8 @@ export default class TabContent extends React.Component {
                             <p> I am pursuing a Double Degree in Computer Science and Business Administration</p>
                             <p>Select the different tabs above to learn more about my degree</p>
                             <div className="schoolImg">
-                                <div className="imgCol">
-                                    <img src={uw}/>
-                                </div>
-                                <div className="imgCol">
-                                    <img src={wlu}/>
-                                </div>
-                                
+                                <img src={uw}/>
+                                <img src={wlu}/>
                             </div>
                         </div>
                         

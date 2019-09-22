@@ -17,8 +17,13 @@ export default class TabContent extends React.Component {
                             <p> I am pursuing a Double Degree in Computer Science and Business Administration</p>
                             <p>Select the different tabs above to learn more about my degree</p>
                             <div className="schoolImg">
-                                <img src={uw}/>
-                                <img src={wlu}/>
+                                <div className="imgCol">
+                                    <img src={uw}/>
+                                </div>
+                                <div className="imgCol">
+                                    <img src={wlu}/>
+                                </div>
+                                
                             </div>
                         </div>
                         

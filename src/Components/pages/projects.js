@@ -8,7 +8,7 @@ class Projects extends Component {
       return (
         <div className="row">
 
-          <div className="col">
+          <div className="col-xl-2">
             <div className="container">
               <img src={CVT} className="image"/>
               <div className="overlayT">
@@ -24,7 +24,7 @@ class Projects extends Component {
 
           </div>
 
-          <div className="col">
+          <div className="col-xl-2">
 
           <div className="container">
             <img src={biquadris} className="image"/>

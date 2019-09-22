@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Resume from 'LucyYuResume.pdf'
+import Resume from './LucyYuResume.pdf'
 
 //components
 

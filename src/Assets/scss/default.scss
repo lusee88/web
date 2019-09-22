@@ -202,6 +202,11 @@ header {
     display: flex;
 }
 
+.imgCol{
+    flex: 50%;
+    padding: 5px;
+}
+
 .container-fluid {
     line-height: 24px;
     position: relative;

@@ -18,7 +18,7 @@ class EducationWLU extends Component {
               />
               <Carousel.Caption>
                 <p className="ctext">I study Business Administration <br>
-                </br>at Wilfred Laurier University.</p>              
+                </br>at Wilfrid Laurier University.</p>              
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>

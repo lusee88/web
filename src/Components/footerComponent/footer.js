@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Resume from 'LucyYuResume.pdf'
 
 //components
 
@@ -16,7 +17,7 @@ class Footer extends Component {
           <a href="https://www.linkedin.com/in/lucyyu-99/">
             <i class="fab fa-linkedin"></i>
           </a>
-          <a href="LucyYuResume.pdf" target="_blank">
+          <a href={Resume} target="_blank">
             <i class="far fa-file-alt"></i>
           </a>
 

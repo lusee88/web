@@ -27,7 +27,7 @@ export default class TabContent extends React.Component {
                     <div label="University of Waterloo" className="tab-content">
                         <EducationUW />
                     </div>
-                    <div label="Wilfred Laurier University" className="tab-content">
+                    <div label="Wilfrid Laurier University" className="tab-content">
                         <br/>
                         <EducationWLU />
                     </div>

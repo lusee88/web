@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1a2f13f3e3ff51e98ef1181ae723503",
+    "revision": "f5de14d68a73c783b515d985eaa54837",
     "url": "/web/index.html"
   },
   {
-    "revision": "d78157971c2f95e7b368",
+    "revision": "3e167d99d9496b945237",
     "url": "/web/static/css/2.40d61c3f.chunk.css"
   },
   {
-    "revision": "1de9570ee1ffe63c9826",
+    "revision": "e789e46c2233ee66aea8",
     "url": "/web/static/css/main.1a38294a.chunk.css"
   },
   {
-    "revision": "d78157971c2f95e7b368",
-    "url": "/web/static/js/2.06ee9be0.chunk.js"
+    "revision": "3e167d99d9496b945237",
+    "url": "/web/static/js/2.500a239d.chunk.js"
   },
   {
-    "revision": "1de9570ee1ffe63c9826",
-    "url": "/web/static/js/main.e3f00c9b.chunk.js"
+    "revision": "e789e46c2233ee66aea8",
+    "url": "/web/static/js/main.4302cec9.chunk.js"
   },
   {
     "revision": "70c22b3514e757e782ce",
     "url": "/web/static/js/runtime~main.47739002.js"
+  },
+  {
+    "revision": "17872af4306ebbd8b1d3d7d3f3caef76",
+    "url": "/web/static/media/LucyYuResume.17872af4.pdf"
   },
   {
     "revision": "303e53a989315747ecba86af7dab6f0a",

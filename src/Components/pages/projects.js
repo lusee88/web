@@ -8,7 +8,7 @@ class Projects extends Component {
       return (
         <div className="row">
 
-          <div className="col-xl-2">
+          
             <div className="container">
               <img src={CVT} className="image"/>
               <div className="overlayT">
@@ -22,20 +22,18 @@ class Projects extends Component {
               </div>
             </div>
 
-          </div>
 
-          <div className="col-xl-2">
 
           <div className="container">
             <img src={biquadris} className="image"/>
             <div className="overlayG">
               <div className="text">This was a game was made in C++ and is a local two-player tetris.</div>
             </div>
+          
+          </div>
           </div>
 
-          </div>
-
-        </div>
+        
         
       );
     }

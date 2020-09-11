@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.1a38294a.chunk.css",
-    "main.js": "/web/static/js/main.77815fca.chunk.js",
-    "main.js.map": "/web/static/js/main.77815fca.chunk.js.map",
-    "runtime~main.js": "/web/static/js/runtime~main.47739002.js",
-    "runtime~main.js.map": "/web/static/js/runtime~main.47739002.js.map",
-    "static/css/2.40d61c3f.chunk.css": "/web/static/css/2.40d61c3f.chunk.css",
-    "static/js/2.500a239d.chunk.js": "/web/static/js/2.500a239d.chunk.js",
-    "static/js/2.500a239d.chunk.js.map": "/web/static/js/2.500a239d.chunk.js.map",
+    "main.css": "/web/static/css/main.da9f56ee.chunk.css",
+    "main.js": "/web/static/js/main.628bf95a.chunk.js",
+    "main.js.map": "/web/static/js/main.628bf95a.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.ac4df23f.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.ac4df23f.js.map",
+    "static/css/2.cdacfba3.chunk.css": "/web/static/css/2.cdacfba3.chunk.css",
+    "static/js/2.fb4e2288.chunk.js": "/web/static/js/2.fb4e2288.chunk.js",
+    "static/js/2.fb4e2288.chunk.js.map": "/web/static/js/2.fb4e2288.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.bc9ca8ead87e057caf5d33ab241a90ed.js": "/web/precache-manifest.bc9ca8ead87e057caf5d33ab241a90ed.js",
+    "precache-manifest.ba1f62713c896d718362e96c0a57741f.js": "/web/precache-manifest.ba1f62713c896d718362e96c0a57741f.js",
     "service-worker.js": "/web/service-worker.js",
-    "static/css/2.40d61c3f.chunk.css.map": "/web/static/css/2.40d61c3f.chunk.css.map",
-    "static/css/main.1a38294a.chunk.css.map": "/web/static/css/main.1a38294a.chunk.css.map",
-    "static/media/LucyYuResume.pdf": "/web/static/media/LucyYuResume.17872af4.pdf",
+    "static/css/2.cdacfba3.chunk.css.map": "/web/static/css/2.cdacfba3.chunk.css.map",
+    "static/css/main.da9f56ee.chunk.css.map": "/web/static/css/main.da9f56ee.chunk.css.map",
+    "static/js/2.fb4e2288.chunk.js.LICENSE.txt": "/web/static/js/2.fb4e2288.chunk.js.LICENSE.txt",
+    "static/media/LucyYuResume.pdf": "/web/static/media/LucyYuResume.a295ea47.pdf",
     "static/media/WLU.png": "/web/static/media/WLU.303e53a9.png",
     "static/media/default.min.css": "/web/static/media/work.e5433615.jpg",
     "static/media/biquadris.png": "/web/static/media/biquadris.77fa3b88.png",
@@ -23,5 +24,12 @@
     "static/media/scotia.png": "/web/static/media/scotia.f8c6087d.png",
     "static/media/siteCVT.png": "/web/static/media/siteCVT.a4f4d6bd.png",
     "static/media/uw.png": "/web/static/media/uw.95d97bb6.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4df23f.js",
+    "static/css/2.cdacfba3.chunk.css",
+    "static/js/2.fb4e2288.chunk.js",
+    "static/css/main.da9f56ee.chunk.css",
+    "static/js/main.628bf95a.chunk.js"
+  ]
 }
